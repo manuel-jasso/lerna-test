@@ -1,7 +1,7 @@
 {
   "name": "lerna-test",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -12,5 +12,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-jasso/lerna-test.git"
+  },
+  "author": "mjasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuel-jasso/lerna-test/issues"
+  },
+  "homepage": "https://github.com/manuel-jasso/lerna-test#readme"
 }
