@@ -2,7 +2,7 @@ import React from 'react';
 
 import C from '@mjasso/c';
 
-// some change
+// some change 2
 
 class B extends React.Component {
 
