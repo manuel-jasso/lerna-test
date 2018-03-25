@@ -1,6 +1,6 @@
 {
   "name": "@mjasso/lerna-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "dependencies": {
     "@mjasso/a": "^0.10.0",
