@@ -4,6 +4,8 @@ import './App.css';
 
 import A from '@mjasso/a';
 
+// some change
+
 class App extends Component {
   render() {
     return (
@@ -14,7 +16,6 @@ class App extends Component {
         </header>
         <p className="App-intro">
           <A/>
-          some change
         </p>
       </div>
     );
