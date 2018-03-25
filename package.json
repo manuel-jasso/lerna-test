@@ -1,9 +1,9 @@
 {
-  "name": "@mjasso/lerna-test",
-  "version": "0.1.0",
+  "name": "@stubhub/lerna-test",
+  "version": "0.2.0",
   "private": false,
   "dependencies": {
-    "@mjasso/a": "^0.1.0",
+    "@stubhub/a": "^0.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"

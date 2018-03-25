@@ -1,11 +1,11 @@
 {
-  "name": "@mjasso/a",
-  "version": "0.1.0",
+  "name": "@stubhub/a",
+  "version": "0.2.0",
   "main": "a.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@mjasso/b": "^0.1.0"
+    "@stubhub/b": "^0.2.0"
   }
 }
