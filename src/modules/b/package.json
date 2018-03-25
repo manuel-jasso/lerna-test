@@ -1,6 +1,6 @@
 {
   "name": "@mjasso/b",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "main": "b.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
