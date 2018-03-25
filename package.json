@@ -1,9 +1,9 @@
 {
   "name": "@mjasso/lerna-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "dependencies": {
-    "@mjasso/a": "^0.10.0",
+    "@mjasso/a": "^0.10.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"

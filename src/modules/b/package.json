@@ -1,12 +1,12 @@
 {
   "name": "@mjasso/b",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "main": "b.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@mjasso/c": "^0.10.0"
+    "@mjasso/c": "^0.11.0"
   },
   "publishConfig": {
     "access": "public"
