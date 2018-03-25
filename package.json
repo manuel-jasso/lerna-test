@@ -19,6 +19,9 @@
   "devDependencies": {
     "lerna": "^2.9.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manuel-jasso/lerna-test.git"
