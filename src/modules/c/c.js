@@ -1,6 +1,6 @@
 import React from 'react';
 
-import A from '@mjasso/a';
+import A from '@stubhub/a';
 
 class C extends React.Component {
 

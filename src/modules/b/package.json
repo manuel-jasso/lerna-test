@@ -1,11 +1,14 @@
 {
-  "name": "@stubhub/b",
-  "version": "0.2.0",
+  "name": "@mjasso/b",
+  "version": "0.3.0",
   "main": "b.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@stubhub/c": "^0.2.0"
+    "@mjasso/c": "^0.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
