@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import A from '@stubhub/a';
+import A from '@mjasso/a';
 
 class App extends Component {
   render() {
