@@ -1,7 +1,7 @@
 {
   "name": "@mjasso/lerna-test",
   "version": "0.7.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@mjasso/a": "^0.7.0",
     "react": "^16.2.0",
