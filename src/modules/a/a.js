@@ -2,6 +2,8 @@ import React from 'react';
 
 import B from '@mjasso/b';
 
+// some change
+
 class A extends React.Component {
 
     render () {
